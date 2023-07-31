@@ -169,9 +169,8 @@ i {
 
 }
 
-.head ul li.last:hover a {
-    color: red;
-    background-color: green;
+.head ul li.last:hover .megamenu {
+     display: flex;
 }
 
 .megamenu .img {
